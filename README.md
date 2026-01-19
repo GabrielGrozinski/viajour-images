@@ -258,6 +258,14 @@ Travel costs can also be saved for later reuse in the **“Build Your Adventure�
 
 ---
 
+## 👨‍💻 About Me
+
+I’m a highly motivated Brazilian **Full Stack Developer** with a strong passion for building scalable, well-structured, and user-focused applications.  
+
+I’m constantly learning, experimenting with new technologies, and challenging myself to grow as a developer. My goal is to contribute to impactful projects, collaborate with talented teams, and continuously improve both technically and professionally.
+
+---
+
 ## 📬 Contact
 
 Feel free to reach out for questions, suggestions, or professional opportunities.
@@ -266,6 +274,37 @@ Feel free to reach out for questions, suggestions, or professional opportunities
 - **Email:** gabrielgrozinski@gmail.com
 
 ---
+
+## 🚀 Future Improvements & Ideas
+
+This project was designed with scalability in mind, allowing several features to be implemented in future iterations, such as:
+
+- 🏆 **User Ranking System**  
+  A gamified ranking based on user activity, completed trips, created itineraries, and engagement within the platform.
+
+- 👥 **Community Features**  
+  The ability for users to interact with each other, share itineraries, comment on trips, and exchange travel tips.
+
+- ⭐ **Reviews & Ratings**  
+  Users could rate trips, destinations, and itineraries, helping others make better travel decisions.
+
+- 🎯 **Personalized Recommendations**  
+  More advanced AI-driven suggestions based on user behavior, preferences, and travel history.
+
+- 📱 **Mobile Application Version**  
+  The entire platform could be adapted into a mobile application using **React Native**, leveraging the same core concepts and business logic.
+
+---
+
+## 📱 Other Projects
+
+In addition to this project, I have also developed a **React Native** application called **Mistura Boa**, a mobile app focused on recipes and cooking experiences.
+
+- **Mistura Boa (React Native):**  
+  https://github.com/GabrielGrozinski/Mistura-Boa
+
+This experience reinforces the feasibility of building a full **mobile version of ViaJour using React Native**, ensuring consistency across web and mobile platforms.
+
 
 Thank you for checking out this project!  
 I’m always open to feedback and collaboration opportunities.
