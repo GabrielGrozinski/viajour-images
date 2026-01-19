@@ -138,10 +138,10 @@ This project uses the following libraries and tools:
 
 ---
 
-### Destino certo e Modo escuro
-| Desktop | Desktop |
-|--------|--------|
-| ![Desktop](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/desktop/20.png) | ![Desktop](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/desktop/21.png) |
+### Destino certo
+| Desktop |
+|--------|
+| ![Desktop](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/desktop/20.png) |
 
 ---
 
@@ -246,9 +246,9 @@ Também é possível salvar os custos da viagem para reaproveitá-los depois em 
 ---
 
 ### Viagens favoritadas
-| Desktop | Mobile |
-|--------|--------|
-| ![Desktop](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/desktop/42.png) | ![Mobile](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/mobile/21.jpg) |
+| Desktop |
+|--------|
+| ![Desktop](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/desktop/42.png) |
 
 ---
 
