@@ -9,7 +9,5 @@ O principal objetivo é apresentar uma arquitetura escalável, com código limpo
 
 ### Página inicial
 | Desktop | Mobile |
-|---------|--------|
-| ![Desktop](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/desktop/1.png
-) | ![Mobile](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/mobile/1.jpg
-) |
+|--------|--------|
+| ![Desktop](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/desktop/1.png) | ![Mobile](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/mobile/1.jpg) |
