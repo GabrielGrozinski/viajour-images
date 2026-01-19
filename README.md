@@ -26,6 +26,8 @@ O principal objetivo é apresentar uma arquitetura escalável, com código limpo
   - Criar o roteiro de suas viagens
   - Baixar o pdf dos roteiros
   - Procurar por viagens e roteiros já criados
+  - Chat auxiliar
+  - Modo escuro e modo claro
 
 ---
 
@@ -88,6 +90,183 @@ This project uses the following libraries and tools:
 
 | Mobile | Mobile |
 |--------|--------|
-| ![Mobile](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/mobile/10.png) | ![Mobile](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/mobile/11.png) |
+| ![Mobile](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/mobile/10.jpg) | ![Mobile](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/mobile/11.jpg) |
 
+---
 
+### Configurações de usuário
+| Desktop | Mobile |
+|--------|--------|
+| ![Desktop](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/desktop/12.png) | ![Mobile](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/mobile/12.jpg) |
+
+| Desktop | Mobile |
+|--------|--------|
+| ![Desktop](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/desktop/14.png) | ![Mobile](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/mobile/13.jpg) |
+
+| Desktop | Mobile |
+|--------|--------|
+| ![Desktop](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/desktop/15.png) | ![Mobile](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/mobile/14.jpg) |
+
+| Desktop | Mobile |
+|--------|--------|
+| ![Desktop](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/desktop/17.png) | ![Mobile](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/mobile/15.jpg) |
+
+| Desktop | Mobile |
+|--------|--------|
+| ![Desktop](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/desktop/18.png) | ![Mobile](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/mobile/16.jpg) |
+
+---
+
+### Busca de configuração
+| Mobile |
+|--------|
+|![Mobile](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/mobile/17.jpg) |
+
+---
+
+### Troca de idioma e moeda
+| Mobile | Mobile |
+|--------|--------|
+| ![Mobile](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/mobile/18.jpg) | ![Mobile](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/mobile/19.jpg) |
+
+---
+
+### Roteiro automático
+| Desktop | Mobile |
+|--------|--------|
+| ![Desktop](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/desktop/19.png) | ![Mobile](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/mobile/20.jpg) |
+
+---
+
+### Destino certo e Modo escuro
+| Desktop | Desktop |
+|--------|--------|
+| ![Desktop](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/desktop/20.png) | ![Desktop](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/desktop/21.png) |
+
+---
+
+### Calculator
+| Desktop | Mobile |
+|--------|--------|
+| ![Desktop](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/desktop/22.png) | ![Mobile](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/mobile/21.jpg) |
+
+| Desktop | Mobile |
+|--------|--------|
+| ![Desktop](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/desktop/23.png) | ![Mobile](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/mobile/23.jpg) |
+
+| Desktop | Mobile |
+|--------|--------|
+| ![Desktop](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/desktop/25.png) | ![Mobile](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/mobile/22.jpg) |
+
+### Salvar Calculator
+Também é possível salvar os custos da viagem para reaproveitá-los depois em "Monte sua Aventura".
+
+| Desktop |
+|--------|
+| ![Desktop](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/desktop/24.png) |
+
+---
+
+### Monte sua Aventura
+| Desktop | Desktop |
+|--------|--------|
+| ![Desktop](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/desktop/26.png) | ![Desktop](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/desktop/27.png) |
+
+| Desktop | Desktop |
+|--------|--------|
+| ![Desktop](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/desktop/28.png) | ![Desktop](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/desktop/29.png) |
+
+---
+
+### Viagens baratas
+| Desktop |
+|--------|
+| ![Desktop](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/desktop/30.png) |
+
+---
+
+### Viagens românticas
+| Desktop |
+|--------|
+| ![Desktop](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/desktop/31.png) |
+
+---
+
+### Viagens de natal
+| Desktop |
+|--------|
+| ![Desktop](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/desktop/32.png) |
+
+---
+
+### Viagens de sete dias
+| Desktop |
+|--------|
+| ![Desktop](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/desktop/33.png) |
+
+---
+
+### Filtro de custo
+| Desktop |
+|--------|
+| ![Desktop](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/desktop/34.png) |
+
+---
+
+### Viagens filtradas pela nacionalidade
+| Desktop |
+|--------|
+| ![Desktop](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/desktop/35.png) |
+
+---
+
+### Viagens filtradas por busca
+| Desktop |
+|--------|
+| ![Desktop](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/desktop/36.png) |
+
+---
+
+### Tela de viagens mobile
+| Mobile |
+|--------|
+| ![Mobile](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/mobile/24.jpg) |
+
+---
+
+### Card viagem
+| Desktop | Mobile |
+|--------|--------|
+| ![Desktop](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/desktop/37.png) | ![Mobile](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/mobile/25.jpg) |
+
+| Desktop | Desktop |
+|--------|--------|
+| ![Desktop](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/desktop/38.png) | ![Desktop](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/desktop/39.png) |
+
+---
+
+### Viagens favoritadas
+| Desktop | Mobile |
+|--------|--------|
+| ![Desktop](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/desktop/42.png) | ![Mobile](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/mobile/21.jpg) |
+
+---
+
+### Roteiro da viagem em pdf
+| Desktop | Desktop |
+|--------|--------|
+| ![Desktop](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/desktop/40.png) | ![Desktop](https://raw.githubusercontent.com/GabrielGrozinski/viajour-images/master/desktop/41.png) |
+
+---
+
+## 📬 Contact
+
+Feel free to reach out for questions, suggestions or professional opportunities!
+
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/gabriel-grozinski/)
+- **E-mail:** gabrielgrozinski@gmail.com
+
+---
+
+Thanks for visiting my project!  
+I’m open to feedback and collaboration opportunities.
